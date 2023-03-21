@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="103.91827"
+   height="50.783592"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="VR Group logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2390"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.9300951"
+     inkscape:cx="51.959133"
+     inkscape:cy="25.391796"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-546.75177,-548.11707)">
+    <path
+       style="fill:#62b92b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 552.15157,554.5558 L 562.78428,554.5558 C 566.71698,554.5558 568.00333,556.39534 569.25262,558.29029 L 581.76081,577.26293 C 581.9061,577.50012 582.10195,577.40525 582.22057,577.26293 L 593.57414,559.49823 C 595.43231,556.59079 597.55043,554.60668 602.43315,554.60668 L 631.08589,554.60668 C 635.09592,554.60668 643.16032,558.85411 643.16032,568.43237 C 643.16032,575.65544 637.69718,581.66472 632.52761,581.66472 C 632.32936,581.62902 632.26795,581.87043 632.6312,582.40829 L 639.27647,592.24776 L 628.82398,592.24776 C 624.90247,592.24776 622.71624,590.03942 621.27898,587.83185 L 619.91254,585.73305 C 618.90134,583.9816 616.08581,582.17876 613.75634,582.17876 L 601.68383,582.17876 L 606.18922,575.46077 C 608.23544,572.40964 610.59206,571.64929 615.40716,571.64929 L 626.95939,571.64929 C 632.10189,571.64929 631.64095,565.13883 627.06297,565.13883 L 609.49553,565.13883 C 607.24747,565.13883 603.86503,566.37297 601.17015,570.59496 L 590.35723,587.5352 C 586.62924,593.47874 577.95861,594.46186 573.57024,587.5352 L 552.15157,554.5558 z"
+       id="path2396"
+       sodipodi:nodetypes="csssssssscscsssscsssssszzc" />
+  </g>
+</svg>
